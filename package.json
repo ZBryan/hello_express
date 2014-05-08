@@ -1,8 +1,13 @@
 {
-"name" : "hello-express",
-"description" : "this is out hello world for express",
-"version" : "0.0.1",
-"dependencies" : {
-		"express" : "^4.0"
-	}
-} 
+  "name": "hello-express",
+  "description": "this is out hello world for express",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-casper": "^0.3.7",
+    "grunt-express-server": "^0.4.17"
+  }
+}
