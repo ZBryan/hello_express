@@ -1,3 +1,5 @@
-bower_components/ 
-node_modules/ 
-test/acceptance/*.xml 
+node_modules/
+/test/acceptance/*.xml
+dist/
+bower_components/
+test/acceptance/casper-results.xml
