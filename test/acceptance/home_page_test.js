@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 casper.test.begin('home page', 3, function suite (test){
 	casper.start('http://localhost:3000/', function (){

@@ -1,4 +1,12 @@
 node_modules/
+<<<<<<< HEAD
 /test/acceptance/*.xml
 bower_components/
 
+=======
+node_modules/
+/test/acceptance/*.xml
+dist/
+bower_components/
+test/acceptance/casper-results.xml
+>>>>>>> mocha_test
