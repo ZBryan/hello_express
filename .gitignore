@@ -1,4 +1,5 @@
 node_modules/
-/test/acceptance/*.xmldist
+/test/acceptance/*.xml
+dist/
 bower_components/
 test/acceptance/casper-results.xml
