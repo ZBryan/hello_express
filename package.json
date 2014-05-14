@@ -5,6 +5,9 @@
   "dependencies": {
     "express": "^4.0"
   },
+  "scripts": {
+    "test": "vows --spec"
+  },
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-casper": "^0.3.7",
